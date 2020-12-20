@@ -13,7 +13,7 @@ div.starfield {
   position: fixed;
   width: 100%;
   height: 100%;
-  overflow: visible;
+  overflow: hidden;
 }
 div.starfield .static {
   position: absolute;
